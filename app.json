@@ -45,8 +45,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "c10a5711-66eb-4578-a69f-ce6026703c16"
+        "projectId": "38037b9c-e407-41f5-8eb1-d927703af6c1"
       }
-    }
+    },
+    "owner": "hobit22"
   }
 }
